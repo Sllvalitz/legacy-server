@@ -1,6 +1,16 @@
 <div align="center">
+  <!-- Status -->
   <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge" alt="Status Ativo">
   <img src="https://img.shields.io/badge/Licença-MIT-blue?style=for-the-badge" alt="Licença MIT">
+  <br>
+  <!-- Stack Principal -->
+  <img src="https://img.shields.io/badge/Debian-12-a81d33?style=for-the-badge&logo=debian" alt="Debian 12">
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ed?style=for-the-badge&logo=docker" alt="Docker">
+  <img src="https://img.shields.io/badge/Tailscale-VPN-000?style=for-the-badge&logo=tailscale" alt="Tailscale">
+  <br>
+  <!-- Hardware/Saúde -->
+  <img src="https://img.shields.io/badge/Consumo-%7E10W-yellow?style=for-the-badge" alt="10W">
+  <img src="https://img.shields.io/badge/Uptime-24%2F7-brightgreen?style=for-the-badge" alt="24/7">
 </div>
 
 # Legacy Server
