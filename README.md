@@ -1,19 +1,14 @@
 <div align="center">
-  <!-- Status -->
+  <img width="2560" height="328" alt="Ansi Labs Banner GitHub Copia" src="https://github.com/user-attachments/assets/fcb5ab82-46e5-4571-b4c2-d6cc3556e024" />
   <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge" alt="Status Ativo">
   <img src="https://img.shields.io/badge/Licença-MIT-blue?style=for-the-badge" alt="Licença MIT">
-  <br>
-  <!-- Stack Principal -->
   <img src="https://img.shields.io/badge/Debian-12-a81d33?style=for-the-badge&logo=debian" alt="Debian 12">
   <img src="https://img.shields.io/badge/Docker-Containers-2496ed?style=for-the-badge&logo=docker" alt="Docker">
-  <img src="https://img.shields.io/badge/Tailscale-VPN-000?style=for-the-badge&logo=tailscale" alt="Tailscale">
-  <br>
-  <!-- Hardware/Saúde -->
   <img src="https://img.shields.io/badge/Consumo-%7E10W-yellow?style=for-the-badge" alt="10W">
   <img src="https://img.shields.io/badge/Uptime-24%2F7-brightgreen?style=for-the-badge" alt="24/7">
-</div>
 
-# Legacy Server
+<h1>Legacy Server</h1>
+</div>
 
 <div align="center">
   <img src="imagem.png" alt="Servidor Legacy NAS em funcionamento" width="600">
@@ -22,7 +17,7 @@
 </div>
 <br>
 
-Um servidor doméstico construído a partir de uma placa-mãe de notebook descartada (Acer ES1-511), rodando 24/7 com consumo ínfimo de ~10W. O projeto prova que hardware legado possui vida útil real e escalável para hospedar mídia, serviços locais e um portfólio web próprio, dispensando infraestruturas externas de nuvem.
+Um servidor doméstico construído a partir de uma placa-mãe de notebook que iria ser descartada (Acer ES1-511), rodando 24/7 com consumo ínfimo de ~10W. O projeto prova que hardware legado possui vida útil real e escalável para hospedar mídia, serviços locais e um portfólio web próprio, dispensando infraestruturas externas de nuvem.
 
 > 📺 Este projeto é documentado em série no YouTube — links dos episódios abaixo.
 
@@ -141,3 +136,8 @@ Cada arquivo em `/docs` corresponde a um episódio da série e contém todos os 
 ## Licença
 
 MIT — veja [LICENSE](./LICENSE) para detalhes.
+
+---
+<div align="center">
+  <p>Desenvolvido com rigor técnico por <strong>> Ansi Labs_</strong></p>
+</div>
